@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="text-gray-400 bg-gray-900 body-font">
         <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className="  w-96 flex-shrink-0 md:mx-1/2 mx-auto text-center md:text-left">
-            <div className="flex col-span-3">
+            <div className="flex col-span-3 ">
               <img
                 className=" h-24 w-99"
                 alt="vstar-logo"

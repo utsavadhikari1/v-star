@@ -5,7 +5,7 @@ import { MdCall } from "react-icons/md";
 
 const Header = () => {
   return (
-    <div className="grid grid-flow-col p-5 m-2 bg-green-800 shadow-lg h-20">
+    <div className="grid grid-flow-col p-5 m-2 bg-teal-600 shadow-lg h-20">
       <div className="flex col-span-1">
         <img
           className="h-8"

@@ -1,7 +1,7 @@
 import React from "react";
 
 const Body = () => {
-  return <div> Body 1 </div>;
+  return <div>Body</div>;
 };
 
 export default Body;
